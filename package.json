@@ -1,0 +1,17 @@
+{
+  "name": "bootstrap-project",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Two-page Bootstrap assignment with navbar, table, form, and responsive grid.",
+  "scripts": {
+    "start": "http-server -c-1 -p 3000",
+    "dev": "live-server ."
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "live-server": "^1.2.2"
+  }
+}
